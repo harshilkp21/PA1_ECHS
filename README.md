@@ -74,7 +74,7 @@ OpenCV (pip install opencv-python)
 NumPy (pip install numpy)
 
 ✅ Project Structure
-
+```bash
 PA1_ECHS/
 │
 ├── scaling/
@@ -87,3 +87,4 @@ PA1_ECHS/
 └── noise/
     ├── original.jpg
     └── noise_denoise.py
+```
